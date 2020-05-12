@@ -1,0 +1,6 @@
+﻿  polinom.cpp
+  DM.cpp
+C:\Users\achat\source\repos\Дискретка\DM.cpp(82,9): warning C4101:  a1: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\achat\source\repos\Дискретка\DM.cpp(82,13): warning C4101:  b1: неиспользованная локальная переменная
+  Дискретка.vcxproj -> C:\Users\achat\source\repos\Дискретка\Debug\Дискретка.exe
